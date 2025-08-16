@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>With such huge diversity in both form and habits, what is it that makes a dinosaur distinct from a crocodile or a lizard?</p> <p>Ben explores the stores in London’s Natural History Museum to meet the earliest known dinosaur and learns of the cataclysmic events that came about at the dawn of this incredible group of animals.</p>"; 

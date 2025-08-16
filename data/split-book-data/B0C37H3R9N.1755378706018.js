@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Ed Byrne and Ria Lina are Dara Ó Briain’s guests in this episode full of wasted time and pointless procrastination. Find out why Ed regrets learning his own actual languge, and why Ria’s divorce was five years late.</p>"; 
